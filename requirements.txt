@@ -1,0 +1,6 @@
+streamlit
+openai
+ultralytics
+geopandas
+shapely
+neo4j

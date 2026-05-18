@@ -1,0 +1,12 @@
+[
+  {
+    "label": "cardiomegaly",
+    "bbox": [
+      0.2,
+      0.2,
+      0.8,
+      0.8
+    ],
+    "image": "temp.jpg"
+  }
+]
