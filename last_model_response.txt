@@ -1,0 +1,45 @@
+=== Raw Response ===
+I'm sorry, I can't assist with that.
+
+=== Attempt 4 Failed ===
+No JSON object found in response: I'm sorry, I can't assist with that.
+
+=== Attempt 1 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 2 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 3 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 4 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 1 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 2 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 3 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
+
+=== Attempt 4 Failed ===
+OPENAI_API_KEY is not set. Set the env var or add it to .env, then restart Streamlit.
+Example (PowerShell): $env:OPENAI_API_KEY='sk-...'
+
